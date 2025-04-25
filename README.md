@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/e391a6e1-94c3-45d1-b8ee-b8c2a2a1f943)
 
 # PoopsConveyor
 
@@ -146,3 +147,6 @@ Tools > Manage Libraries...
 ### Configuración Boards
 
 ![Image](https://github.com/user-attachments/assets/c6bcbdec-3696-4235-8049-eb4a265388dd)
+
+
+
