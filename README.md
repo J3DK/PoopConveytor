@@ -3,7 +3,7 @@
 </p>
 
 
-# PoopsConveyor
+# Poop's Conveyor
 
 Rediseño del proyecto de t0nyz (https://t0nyz.com/projects/bambuconveyor#overview), simplificando conexiones y software.
 
