@@ -91,6 +91,7 @@ Debemos quitar el jumper y conectar el PIN 27 en el pin inferior de ENA del cont
   <img src="https://github.com/user-attachments/assets/0e6460eb-4c80-4011-aaaa-05f9373d644c" alt="App wifi" style="width: 20%;">
 </p>
 
+
 #### 1. Configurar el ESP32
 
 Asegúrate de que tu ESP32 esté funcionando correctamente y que el código cargado incluya la configuración del punto de acceso WiFi con el SSID (nombre de la red) y contraseña. En nuestro caso:
