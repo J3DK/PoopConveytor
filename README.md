@@ -1,4 +1,7 @@
-![Image](https://github.com/user-attachments/assets/e391a6e1-94c3-45d1-b8ee-b8c2a2a1f943)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e391a6e1-94c3-45d1-b8ee-b8c2a2a1f943" alt="Logo PoopConveyor">
+</p>
+
 
 # PoopsConveyor
 
@@ -52,7 +55,9 @@ Rodamientos 8mm X 22mm X 7mm: https://es.aliexpress.com/item/1005008627764470.ht
 
 Diagrama eléctrico
 
-![Image](https://github.com/user-attachments/assets/93832fed-541b-4cfe-b708-b0ecaa462fda)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93832fed-541b-4cfe-b708-b0ecaa462fda" alt="Diagramna eléctrico">
+</p>
 
 ```bash
 // Pines
@@ -76,11 +81,15 @@ int blinkInterval = 500; // Intervalo de parpadeo en ms, ajustable
 
 Debemos quitar el jumper y conectar el PIN 27 en el pin inferior de ENA del contrrolador L298N
 
-![Image](https://github.com/user-attachments/assets/6b0e0359-a1bc-4545-ad84-fb2133925c1b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b0e0359-a1bc-4545-ad84-fb2133925c1b" alt="Conexion L298N" style="width: 20%;">
+</p>
 
 # Cómo conectarte por WiFi a la app desde tu smartphone
 
-![Image](https://github.com/user-attachments/assets/2b9a73fa-cb37-4735-b02f-d09b010ab40d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e6460eb-4c80-4011-aaaa-05f9373d644c" alt="App wifi" style="width: 20%;">
+</p>
 
 #### 1. Configurar el ESP32
 
@@ -142,11 +151,15 @@ Descarga IDE Arduino: https://www.arduino.cc/en/software/
 ### Instalar Arduino ESP32 Boards by Arduino
 Tools > Manage Libraries...
 
-![Image](https://github.com/user-attachments/assets/dd12d55c-e795-47ff-9f3e-7baee06d7c95)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd12d55c-e795-47ff-9f3e-7baee06d7c95" alt="Librería ESP32 Boards">
+</p>
 
 ### Configuración Boards
 
-![Image](https://github.com/user-attachments/assets/c6bcbdec-3696-4235-8049-eb4a265388dd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6bcbdec-3696-4235-8049-eb4a265388dd" alt="Configuración Board ESP32">
+</p>
 
 
 
