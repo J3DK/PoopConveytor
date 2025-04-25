@@ -7,7 +7,7 @@
 
 Rediseño del proyecto de t0nyz (https://t0nyz.com/projects/bambuconveyor#overview), simplificando conexiones y software.
 
-Los archivos STL son del creador t0nyz y se pueden encontrar sus repositorios
+Los archivos STL son del creador t0nyz y se pueden encontrar en sus repositorios de Maker World: https://makerworld.com/en/@t0nyz
 
 El trabajo y el esfuerzo en el diseño pueden ser recompensados comentando las publicaciones y apoyando al creador t0nyz.
 
